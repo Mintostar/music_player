@@ -1,0 +1,17 @@
+{
+  "name": "music_player",
+  "version": "1.0.0",
+  "main": "./src/main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "electron": "^35.0.3",
+    "fluent-ffmpeg": "^2.1.3"
+  }
+}
